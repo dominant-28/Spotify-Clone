@@ -1,0 +1,40 @@
+
+
+.flex {
+    display: flex;
+}
+
+.justify-content {
+    justify-content: center;
+}
+
+.align-item {
+    align-items: center;
+}
+
+.border {
+margin: 5px;
+
+    
+}
+.invert{
+    filter: invert(1);
+}
+.gray{
+    background-color: #121212;
+}
+.m1{
+    margin: 5px;
+}
+
+
+/* Set scrollbar styles for webkit (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #333; /* Change this to your preferred dark background color */
+  }
+  
+  

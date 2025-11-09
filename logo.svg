@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200" role="img" aria-label="Music Logo">
+  <!-- Gradient Background -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4CAF50" />
+      <stop offset="100%" stop-color="#FF5722" />
+    </linearGradient>
+  </defs>
+
+  <!-- Circular Note Icon -->
+  <circle cx="50" cy="50" r="30" fill="url(#gradient)" />
+  <path d="M45 35 L45 55 Q45 60 50 60 Q55 60 55 55 L55 40 L65 38 L65 53 Q65 58 70 58 Q75 58 75 53 L75 35 Z" 
+        fill="#fff" />
+</svg>
